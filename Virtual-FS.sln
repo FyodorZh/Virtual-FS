@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual-FS", "Virtual-FS\Virtual-FS.csproj", "{D8FD1BC1-69D0-41ED-82C1-DC4F4A83E1E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Virtual-IO", "Virtual-IO\Virtual-IO.csproj", "{697B6FE8-C4BA-4B6D-B9E1-E47F1DCFBBA7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D8FD1BC1-69D0-41ED-82C1-DC4F4A83E1E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8FD1BC1-69D0-41ED-82C1-DC4F4A83E1E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D8FD1BC1-69D0-41ED-82C1-DC4F4A83E1E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8FD1BC1-69D0-41ED-82C1-DC4F4A83E1E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{697B6FE8-C4BA-4B6D-B9E1-E47F1DCFBBA7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{697B6FE8-C4BA-4B6D-B9E1-E47F1DCFBBA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{697B6FE8-C4BA-4B6D-B9E1-E47F1DCFBBA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{697B6FE8-C4BA-4B6D-B9E1-E47F1DCFBBA7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

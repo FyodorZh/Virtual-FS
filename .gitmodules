@@ -1,0 +1,3 @@
+[submodule "Virtual-IO"]
+	path = Virtual-IO
+	url = git@github.com:FyodorZh/Virtual-IO.git
